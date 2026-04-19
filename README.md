@@ -3,7 +3,7 @@
 ![Moonlight Midnight Theme](https://img.shields.io/badge/Theme-Moonlight%20Midnight-6C63FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 
-A premium, glassmorphism-inspired web application for real-time currency conversion, multi-currency comparisons, and historical trend analysis.
+A premium, glassmorphism-inspired web application for real-time currency conversion, multi-currency comparisons, and historical trend .
 
 ## ✨ Key Features
 
@@ -23,7 +23,7 @@ A premium, glassmorphism-inspired web application for real-time currency convers
 - **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3.
 - **Styling**: Premium Glassmorphism design system.
 - **Charts**: Chart.js for high-performance financial data visualization.
-- **Data APIs**: 
+- **Data APIs**:
   - [ExchangeRate-API](https://www.exchangerate-api.com/) (Live Rates)
   - [Frankfurter API](https://www.frankfurter.app/) (Official ECB Historical Data)
 
@@ -52,4 +52,5 @@ A premium, glassmorphism-inspired web application for real-time currency convers
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Built with ❤️ for a premium financial experience.*
+
+_Built with ❤️ for a premium financial experience._
